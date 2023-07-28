@@ -1,6 +1,7 @@
 package com.example.servingwebcontent.registration;
 
 import com.example.servingwebcontent.event.RegistrationCompleteEvent;
+import com.example.servingwebcontent.user.User;
 import com.example.servingwebcontent.user.UserService;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.RequiredArgsConstructor;

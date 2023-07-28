@@ -1,6 +1,7 @@
 package com.example.servingwebcontent.event.listener;
 
 import com.example.servingwebcontent.event.RegistrationCompleteEvent;
+import com.example.servingwebcontent.user.User;
 import com.example.servingwebcontent.user.UserService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
